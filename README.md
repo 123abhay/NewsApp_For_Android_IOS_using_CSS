@@ -1,12 +1,12 @@
 # NewsApp_For_Android_IOS_using_CSS
 
-## Folder 1 contains
+## Folder 1: contains
  - News App that can show news to mobile devices like android & IOS using HTML, CSS, JQ, JAVASCRIPT
  - Used Ratchet Api to create this feature styling like IOS
  - To run this you can open ````index.html```` file
  - Js folder contains ````titleId.js```` file this contains data to display in json format
  
-## Folder 2 contains
+## Folder 2: contains
  - Api creation using GOLANG for news delivering system.
  - Golang can be installed fro here https://golang.org/doc/install
      - Golang is very useful for writing light-weight microservices. We currently use it for generating APIs that interact with our front-end applications. 
